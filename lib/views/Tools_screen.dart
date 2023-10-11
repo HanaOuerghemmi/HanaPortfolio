@@ -11,6 +11,8 @@ class ToolsScreen extends StatelessWidget {
       body: SingleChildScrollView(
         child: Column(children: [
           Text("Languages and Tools", style: boldTitleStyleColor,),
+          smallPaddingVert,
+          Text("language technologies and tools that have been recently employed:", style: itemTitleStyle, textAlign: TextAlign.center,),
           mediumPaddingVert,
           Center(
             child: Wrap(
