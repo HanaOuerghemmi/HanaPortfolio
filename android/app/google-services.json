@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697550549075",
+    "project_id": "hana-ouerghemmi",
+    "storage_bucket": "hana-ouerghemmi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697550549075:android:316d4d4d1a6ece225016a6",
+        "android_client_info": {
+          "package_name": "com.example.hanaportfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYZttyDhEh_0tRMtbCxZZod-DCSTvPCtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
